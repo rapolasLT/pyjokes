@@ -7,7 +7,6 @@ http://stackoverflow.com/questions/234075/what-is-your-best-programmer-joke?page
 
 neutral = [
     "Trionfalmente, Beth ha rimosso Python 2.7 dal server nel 2020.'Finalmente!' ha detto con gioia, solo per vedere l'annuncio di Python 4.4.",
-    "Una query SQL entra in un bar, cammina verso a due table e chiede: 'Posso unirvi?'.",
     "Quando il tuo martello e` C ++, tutto inizia a sembrare un pollice.",
     "Se metti un milione di scimmie su un milione di tastiere, uno di loro alla fine scrivera` un programma Java, il resto scrivera` Perl.",
     "Per comprendere la ricorsione devi prima capire la ricorsione.",
@@ -35,13 +34,11 @@ neutral = [
     "Quanti programmatori Prolog ci vogliono per cambiare una lampadina? Falso.",
     "I veri programmatori possono scrivere codice assembly in qualsiasi lingua.",
     "Cameriere: 'le piacerebbe un caffe` o un te`?' Programmatore: 'Si'.",
-    "Un programmatore entra in un foo ...",
     "Qual e` il secondo nome di Benoit B. Mandelbrot? Benoit B. Mandelbrot.",
     "Perche` sorridi sempre? Questa e` solo la mia ... espressione regolare.",
-    "Domanda stupida ASCII, ottiene uno stupido ANSI.",
     "Un programmatore aveva un problema: penso` tra se stesso: 'lo risolvo con i threads!', ora ha due problemi.",
-    "Java: scrivi una volta e scappa.",
-    "Ti direi una battuta su UDP, ma non lo capiresti mai.",
+    "Java: scrivi una voluta su UDP, ma ta e scappa.",
+    "Ti direi una battnon lo capiresti mai.",
     "Un ingegnere di QA entra in un bar, si imbatte in un bar, striscia in un bar, balla in un bar, punta i piedi in un bar...",
     "Ho avuto un problema quindi ho pensato di utilizzare Java. Ora ho una ProblemFactory.",
     "L'ingegnere del QA entra in un bar, ordina una birra, ordina 0 birre,  99999 birre, una lucertola, -1 birre, uno sfdeljknesv.",
